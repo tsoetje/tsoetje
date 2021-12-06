@@ -7,4 +7,4 @@ My name is Thimo Soet and I am a third year Software Engineering student at the 
 - 🌱 I’m currently learning Spring boot and React
 - 📫 How to reach me: thimo.soet54@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsoetje&count_private=true&show_icons=true&theme=dark)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tsoetje&show_icons=true&count_private=true&theme=dark)
